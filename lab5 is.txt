@@ -1,0 +1,13 @@
+ecran1:
+anumit vehicol 
+anumit tip
+anumit oficiu de inchiriere
+
+ecran2:
+perioada de timp
+
+vehicol ---> sistemul stie intervalele disponiobile si care nu
+
+ecran3:
+if disp ---> rezervat cu succes 
+if not disp--->
